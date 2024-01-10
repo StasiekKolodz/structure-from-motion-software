@@ -13,3 +13,7 @@ and extract the binary package to a directory of your choice and add this folder
 run_sfm(<dataset_number>)
 ```
 Where a <dataset_number> is a number of folder containing phots and camera data in the data folder.
+
+# Example output
+![Dataset 1 reconstruction](./dataset1.png)
+![Dataset 2 reconstruction](./dataset2.png)
